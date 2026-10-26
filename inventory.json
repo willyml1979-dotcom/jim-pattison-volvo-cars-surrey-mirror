@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Volvo Cars Surrey",
-  "generated_at": "2026-10-26T04:07:06",
-  "vehicle_count": 94,
+  "generated_at": "2026-10-26T09:01:28",
+  "vehicle_count": 93,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -358,17 +358,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volvo V60 Cross Country B5 AWD Ultra",
-      "vin": "YV4L12WLXT2172839",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/b057a4da1e07.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "V60",
-      "condition": "new",
-      "price": 65928.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volvo XC40 B5 AWD Ultra Dark Theme",
       "vin": "YV4L12UM3T2721616",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/dde2d242b64f.html",
@@ -409,7 +398,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "new",
-      "price": 53843.0,
+      "price": 53743.0,
       "price_currency": "CAD"
     },
     {
@@ -453,7 +442,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "new",
-      "price": 58788.0,
+      "price": 57788.0,
       "price_currency": "CAD"
     },
     {
@@ -464,7 +453,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "new",
-      "price": 53058.0,
+      "price": 52258.0,
       "price_currency": "CAD"
     },
     {
@@ -475,7 +464,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "new",
-      "price": 53958.0,
+      "price": 53158.0,
       "price_currency": "CAD"
     },
     {
@@ -501,6 +490,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Volvo XC60 Plug-in Hybrid ",
+      "vin": "YV4H60RM7T1486731",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/39954903224e.html",
+      "year": 2026,
+      "make": "Volvo",
+      "model": "XC60 Plug-in Hybrid",
+      "condition": "new",
+      "price": 86776.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Volvo XC60 B5 AWD Plus Dark Theme",
       "vin": "YV4M12RC8T1436002",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/b869e118a676.html",
@@ -508,7 +508,7 @@
       "make": "Volvo",
       "model": "XC60",
       "condition": "new",
-      "price": 65308.0,
+      "price": 68808.0,
       "price_currency": "CAD"
     },
     {
@@ -556,14 +556,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Bright Theme 6-Seater",
-      "vin": "YV4H60JF5T1525054",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/c90fa1897a97.html",
+      "name": "2026 Volvo XC90 Plug-in Hybrid T8 AWD Plus Dark Theme 7-Seater",
+      "vin": "YV4H60PC3T1454241",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/6cf81e7c95bd.html",
       "year": 2026,
       "make": "Volvo",
       "model": "XC90 Plug-In Hybrid",
       "condition": "new",
-      "price": 100626.0,
+      "price": 91451.0,
       "price_currency": "CAD"
     },
     {
@@ -640,7 +640,7 @@
       "make": "Volvo",
       "model": "EX60 Twin Motor AWD Ultra",
       "condition": "new",
-      "price": 89788.0,
+      "price": 89787.0,
       "price_currency": "CAD"
     },
     {
@@ -761,7 +761,7 @@
       "make": "Volvo",
       "model": "XC60",
       "condition": "new",
-      "price": 69773.0,
+      "price": 68773.0,
       "price_currency": "CAD"
     },
     {
@@ -772,7 +772,7 @@
       "make": "Volvo",
       "model": "XC60",
       "condition": "new",
-      "price": 71488.0,
+      "price": 70488.0,
       "price_currency": "CAD"
     },
     {
@@ -831,14 +831,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volvo XC60 B5 AWD Ultra Dark Theme",
-      "vin": "YV4M22RM7V1535712",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/489c95de1727.html",
+      "name": "2027 Volvo XC60 ",
+      "vin": "YV4M22RD6V1559628",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/eb2d6f80e097.html",
       "year": 2027,
       "make": "Volvo",
       "model": "XC60",
       "condition": "new",
-      "price": 71438.0,
+      "price": 72148.0,
       "price_currency": "CAD"
     },
     {
@@ -905,17 +905,6 @@
       "model": "XC90 Plug-in Hybrid",
       "condition": "new",
       "price": 95181.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Dark Theme 7-Seater",
-      "vin": "YV4HD0PM6V1572737",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/698727d7b4d8.html",
-      "year": 2027,
-      "make": "Volvo",
-      "model": "XC90 Plug-In Hybrid",
-      "condition": "new",
-      "price": 104463.0,
       "price_currency": "CAD"
     },
     {
