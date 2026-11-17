@@ -1,6 +1,6 @@
 # Jim Pattison Volvo Cars Surrey
 
- dealership in Surrey. AI-readable inventory mirror, about 95 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 90 vehicles.
 
 - Official website: https://www.jpvolvocarssurrey.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/
