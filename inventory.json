@@ -1,19 +1,41 @@
 {
   "dealership": "Jim Pattison Volvo Cars Surrey",
-  "generated_at": "2026-10-26T09:01:28",
-  "vehicle_count": 93,
+  "generated_at": "2026-11-16T22:32:05",
+  "vehicle_count": 95,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2018 Audi SQ5 3.0T Technik quattro 8sp Tiptronic",
-      "vin": "WA1C4AFY3J2174438",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/d999ff3f0a71.html",
-      "year": 2018,
-      "make": "Audi",
-      "model": "SQ5 3.0T Technik quattro 8sp Tiptronic",
+      "name": "2012 Acura MDX Elite 6sp at",
+      "vin": "2HNYD2H82CH000458",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/fc2deaabfe36.html",
+      "year": 2012,
+      "make": "Acura",
+      "model": "MDX",
       "condition": "used",
-      "price": 25095.0,
+      "price": 18603.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 Ford Fiesta Sedan (4) SE",
+      "vin": "3FADP4BJ6EM178788",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/b8f9b154cb6e.html",
+      "year": 2014,
+      "make": "Ford",
+      "model": "Fiesta Sedan (4) SE",
+      "condition": "used",
+      "price": 8868.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Acura RDX at",
+      "vin": "5J8TB4H35GL802356",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/c1422ffa9a68.html",
+      "year": 2016,
+      "make": "Acura",
+      "model": "RDX",
+      "condition": "used",
+      "price": 21603.0,
       "price_currency": "CAD"
     },
     {
@@ -24,18 +46,7 @@
       "make": "Audi",
       "model": "SQ5 3.0T Technik quattro 8sp Tiptronic",
       "condition": "used",
-      "price": 26083.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Hyundai Elantra Preferred IVT",
-      "vin": "KMHD84LF8LU090377",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/389bf9b6fe53.html",
-      "year": 2020,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 19100.0,
+      "price": 24683.0,
       "price_currency": "CAD"
     },
     {
@@ -46,7 +57,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 19600.0,
+      "price": 17411.0,
       "price_currency": "CAD"
     },
     {
@@ -57,7 +68,7 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 22100.0,
+      "price": 20934.0,
       "price_currency": "CAD"
     },
     {
@@ -68,18 +79,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volvo XC90 Recharge Recharge Inscription Extended Range",
-      "vin": "YV4H60CL7N1866641",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/efe33f01ce8b.html",
-      "year": 2022,
-      "make": "Volvo",
-      "model": "XC90 Recharge Recharge Inscription Extended Range",
-      "condition": "used",
-      "price": 54503.0,
+      "price": 23872.0,
       "price_currency": "CAD"
     },
     {
@@ -101,7 +101,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 39595.0,
+      "price": 36757.0,
       "price_currency": "CAD"
     },
     {
@@ -112,7 +112,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 44603.0,
+      "price": 41136.0,
       "price_currency": "CAD"
     },
     {
@@ -135,6 +135,17 @@
       "model": "XC40",
       "condition": "used",
       "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Volvo XC60 B6 AWD Ultimate - Bright",
+      "vin": "LYV062RA6PB196075",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/91d4599df926.html",
+      "year": 2023,
+      "make": "Volvo",
+      "model": "XC60",
+      "condition": "used",
+      "price": 43603.0,
       "price_currency": "CAD"
     },
     {
@@ -168,28 +179,6 @@
       "model": "Pathfinder",
       "condition": "used",
       "price": 49085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Atlas Highline 2.0 TSI 4MOTION",
-      "vin": "1V2BR2CA2RC554696",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/73a1481c59cd.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 40995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volvo C40 Ultimate RWD",
-      "vin": "YV4EH3BM4R2092793",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/d6ae1d47d479.html",
-      "year": 2024,
-      "make": "Volvo",
-      "model": "C40 Ultimate RWD",
-      "condition": "used",
-      "price": 49095.0,
       "price_currency": "CAD"
     },
     {
@@ -244,18 +233,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 56103.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota RAV4 XLE AWD",
-      "vin": "2T3R1RFV9SC528812",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/abd55a77e040.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 47603.0,
+      "price": 54103.0,
       "price_currency": "CAD"
     },
     {
@@ -266,7 +244,7 @@
       "make": "Volvo",
       "model": "EX40 Twin Motor AWD Ultra",
       "condition": "used",
-      "price": 66103.0,
+      "price": 65103.0,
       "price_currency": "CAD"
     },
     {
@@ -293,13 +271,24 @@
     },
     {
       "name": "2025 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Bright Theme 7-Seater",
-      "vin": "YV4H60PF2S1317333",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/1d58c6088e5a.html",
+      "vin": "YV4H60PF1S1307571",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/9c007c7eac92.html",
       "year": 2025,
       "make": "Volvo",
       "model": "XC90 Plug-In Hybrid",
       "condition": "used",
-      "price": 75595.0,
+      "price": 72603.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Bright Theme 7-Seater",
+      "vin": "YV4H60PFXS1315345",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/68bde29fb461.html",
+      "year": 2025,
+      "make": "Volvo",
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "used",
+      "price": 74603.0,
       "price_currency": "CAD"
     },
     {
@@ -310,7 +299,40 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 58603.0,
+      "price": 57603.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volvo EX40 Twin Motor AWD Plus",
+      "vin": "YV4ER3HK7T2704964",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/5f957c3126b5.html",
+      "year": 2026,
+      "make": "Volvo",
+      "model": "EX40 Twin Motor AWD Plus",
+      "condition": "used",
+      "price": 63998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volvo V90 Cross Country B6 AWD Ultra",
+      "vin": "YV4062NL6T1206108",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/8fb1852ac4bb.html",
+      "year": 2026,
+      "make": "Volvo",
+      "model": "V90",
+      "condition": "used",
+      "price": 69603.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volvo XC40 B5 AWD Ultra Black Edition",
+      "vin": "YV4L12UD0T2778419",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/2cf4a52085cd.html",
+      "year": 2026,
+      "make": "Volvo",
+      "model": "XC40",
+      "condition": "used",
+      "price": 49998.0,
       "price_currency": "CAD"
     },
     {
@@ -325,14 +347,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volvo XC60 Plug-in Hybrid T8 AWD Plus Dark Theme",
-      "vin": "YV4H60RC3T1442099",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/c7481dd4a54e.html",
+      "name": "2026 Volvo XC90 Plug-in Hybrid T8 AWD Plus Dark Theme 7-Seater",
+      "vin": "YV4H60PC1T1509379",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/adb978ac6f02.html",
       "year": 2026,
       "make": "Volvo",
-      "model": "XC60 Plug-In Hybrid",
+      "model": "XC90 Plug-In Hybrid",
       "condition": "used",
-      "price": 72603.0,
+      "price": 73103.0,
       "price_currency": "CAD"
     },
     {
