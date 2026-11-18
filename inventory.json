@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Volvo Cars Surrey",
-  "generated_at": "2026-11-17T20:02:34",
+  "generated_at": "2026-11-18T01:52:35",
   "vehicle_count": 91,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -552,7 +552,7 @@
       "make": "Volvo",
       "model": "XC60",
       "condition": "new",
-      "price": 56988.0,
+      "price": 55988.0,
       "price_currency": "CAD"
     },
     {
@@ -563,7 +563,7 @@
       "make": "Volvo",
       "model": "XC90 Plug-In Hybrid",
       "condition": "new",
-      "price": 88941.0,
+      "price": 86941.0,
       "price_currency": "CAD"
     },
     {
@@ -574,7 +574,7 @@
       "make": "Volvo",
       "model": "XC90 Plug-In Hybrid",
       "condition": "new",
-      "price": 88741.0,
+      "price": 86441.0,
       "price_currency": "CAD"
     },
     {
@@ -882,7 +882,7 @@
       "make": "Volvo",
       "model": "XC90 Plug-In Hybrid",
       "condition": "new",
-      "price": 99931.0,
+      "price": 97931.0,
       "price_currency": "CAD"
     },
     {
@@ -893,7 +893,7 @@
       "make": "Volvo",
       "model": "XC90 Plug-In Hybrid",
       "condition": "new",
-      "price": 101656.0,
+      "price": 99656.0,
       "price_currency": "CAD"
     },
     {
@@ -904,7 +904,7 @@
       "make": "Volvo",
       "model": "XC90 Plug-In Hybrid",
       "condition": "new",
-      "price": 108091.0,
+      "price": 106091.0,
       "price_currency": "CAD"
     },
     {
@@ -915,7 +915,7 @@
       "make": "Volvo",
       "model": "XC90 Plug-In Hybrid",
       "condition": "new",
-      "price": 108091.0,
+      "price": 106091.0,
       "price_currency": "CAD"
     },
     {
@@ -926,7 +926,7 @@
       "make": "Volvo",
       "model": "XC90 Plug-In Hybrid",
       "condition": "new",
-      "price": 98131.0,
+      "price": 96131.0,
       "price_currency": "CAD"
     },
     {
@@ -970,7 +970,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "new",
-      "price": 89243.0,
+      "price": 88243.0,
       "price_currency": "CAD"
     },
     {
@@ -981,7 +981,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "new",
-      "price": 91483.0,
+      "price": 90483.0,
       "price_currency": "CAD"
     },
     {
@@ -992,7 +992,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "new",
-      "price": 90463.0,
+      "price": 89463.0,
       "price_currency": "CAD"
     },
     {
@@ -1003,7 +1003,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "new",
-      "price": 92163.0,
+      "price": 91163.0,
       "price_currency": "CAD"
     }
   ]
