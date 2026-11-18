@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Volvo Cars Surrey",
-  "generated_at": "2026-11-18T01:52:35",
+  "generated_at": "2026-11-18T05:38:46",
   "vehicle_count": 91,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -112,7 +112,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 36757.0,
+      "price": 36595.0,
       "price_currency": "CAD"
     },
     {
