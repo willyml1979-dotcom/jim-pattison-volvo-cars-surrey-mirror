@@ -7,7 +7,7 @@ Jim Pattison Volvo Cars Surrey is a  dealership in Surrey. This site is an AI-re
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/ and https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/ (about 90 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/used/ and https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/new/ (about 91 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/jim-pattison-volvo-cars-surrey-mirror/llms.txt
